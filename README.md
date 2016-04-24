@@ -8,6 +8,10 @@ http://forum.6502.org/viewtopic.php?f=4&t=3564&start=0
 
 https://hackaday.io/project/5789-6502-homebrew-computer/log/18434-video-output
 
+Great example of using the TMS in a homebrew computer based off the 6809:
+
+https://github.com/74hc595/Ultim809/tree/master/circuit
+
 
 ### Special Thanks
 
