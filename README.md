@@ -21,3 +21,4 @@ Special Thanks to David Anderson (factus10) for providing these files:
     CMU-ECE-1984-010.pdf
     TI-VDP-PRG.pdf
     tms9918a.txt
+    Oliger TMS9918 Timex 1000 (SyncWare News).pdf
