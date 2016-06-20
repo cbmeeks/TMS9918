@@ -19,6 +19,7 @@ Special Thanks to David Anderson (factus10) for providing these files:
 
     1980_Arizona_Technical_Symposium_Draft.pdf
     CMU-ECE-1984-010.pdf
+    Oliger TMS9918 Timex 1000 (SyncWare News).pdf
     TI-VDP-PRG.pdf
     tms9918a.txt
-    Oliger TMS9918 Timex 1000 (SyncWare News).pdf
+    
