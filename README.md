@@ -23,3 +23,9 @@ Special Thanks to David Anderson (factus10) for providing these files:
     TI-VDP-PRG.pdf
     tms9918a.txt
     
+
+And thanks goes to bissonex for discovering a missing page in the Apple II Byte article (Hi-Res Graphics TMS9918 BYTE 0882.pdf).
+
+    https://github.com/bissonex
+    
+    
